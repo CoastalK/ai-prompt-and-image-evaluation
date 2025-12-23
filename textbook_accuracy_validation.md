@@ -1,17 +1,31 @@
-## Case Study: Textbook-Based Answer Verification
+# Textbook Accuracy Validation
 
-### Prompt
-"Explain the causes of the French Revolution at an introductory level."
+This document complements factual correctness evaluation by **demonstrating a structured process** for verifying AI outputs against textbooks and reference materials.
 
-### Evaluation Criteria
-- Alignment with standard history textbooks
-- Accurate representation of socioeconomic factors
-- Clear distinction between causes and consequences
+---
 
-### Findings
-- Correct identification of financial crisis and social inequality
-- Minor omission of political structure context
-- Overall factual accuracy: High
+## 1. Evaluation Steps
+1. Identify factual statements in AI responses.
+2. Compare each statement to **authoritative sources**.
+3. Categorize as:
+   - ✅ Correct  
+   - ⚠ Minor Error  
+   - ❌ Major Error
+4. Document discrepancies and suggest corrections.
 
-### Notes
-Evaluation conducted using publicly available educational references.
+---
+
+## 2. Example Case
+
+**Prompt:** "Explain the causes of World War I."  
+**AI Response:** "World War I started due to the assassination of Archduke Franz Ferdinand and alliances between countries."  
+**Evaluation:**  
+- Correct main cause → ✅  
+- Missing additional factors (imperialism, nationalism, militarism) → ⚠ Minor Error
+
+---
+
+## 3. Notes
+- Focuses on **text accuracy**, not style or tone.  
+- Only uses **publicly available textbooks and references**.  
+- Aligns with educational content QA and AI factual verification roles.

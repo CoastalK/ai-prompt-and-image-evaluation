@@ -64,4 +64,4 @@ safety, ethics, and factual correctness**, all using **simulated or public AI ou
 ## Contact
 
 - GitHub: CoastalK(https://github.com/CoastalK)  
-- LinkedIn: [Kylie Harris]([https://www.linkedin.com/in/YourProfile](https://www.linkedin.com/in/kylie-harris-168722230))
+- LinkedIn: [Kylie Harris](https://www.linkedin.com/in/kylie-harris-168722230)
